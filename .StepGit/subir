@@ -1,0 +1,11 @@
+
+git add .
+
+
+git commit -m 'commit01'
+
+git branch -M main
+
+git remote set-url origin https://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@github.com/fabianrcm91/cardT.git
+
+git push -u origin main
